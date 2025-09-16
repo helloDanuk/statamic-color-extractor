@@ -1,5 +1,5 @@
 {
-    "name": "aryehraber/statamic-color-extractor",
+    "name": "hellodanuk/statamic-color-extractor",
     "type": "statamic-addon",
     "description": "Extract colors from images.",
     "keywords": [
